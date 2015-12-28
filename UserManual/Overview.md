@@ -13,4 +13,4 @@ Setting up the turbidostat generally takes two days sepparated by an autoclave s
 
 
 
-[1]: [/UserManual/AssembleClosedSystem.md]
+[1]: AssembleClosedSystem.md
