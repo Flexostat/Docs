@@ -9,8 +9,26 @@ Setting up the turbidostat generally takes two days sepparated by an autoclave s
     *  Keep in mind, continuous culture devices consume one volume per chamber per generation, so yeast doubling every 90 minutes in 15ml volumes over eight chambers takes 15 ml * 8  / 1.5 hr = 80 ml/hr or about 2 L per day.  
   2.  [Assemble and autoclave the closed system][1]
 
+## Day 0: 
+
+1. Attach non-autoclavable parts
+  * Attach sterile syringe
+  * Attach media line to media bottle
+2. Attach closed system to machinery
+  * Attach syringe to syringe pump
+  * Place culture vessels into their chambers
+  * Attach media tubing to pinch valves
+  * Connect air tubing to pressure regulators
+  * Connect effluent tubing to waste bottles
+3. unclip/open media bottle tube
+4. Prime pump
+  * Prime siphon
+  * Fill chambers with media
+5. [Start software and blank][2]
+6. Innoculate
 
 
 
 
 [1]: AssembleClosedSystem.md
+[2]: StartSoftware.md
