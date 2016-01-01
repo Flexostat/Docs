@@ -5,8 +5,12 @@ You should only need to install the prerequisites once.
 
 The Flexostat software depends on python 2.7.9 or later (3.x is untested and likely incompatible).  
 
-1. Install the latest python 2.7.x from either your systems package repository or [python.org](http://python.org).  Windows users can and probably should install [pythonxy](http://python-xy.github.io/) and skip the next step.
+1. Install the latest python 2.7.x from either your systems package repository or [python.org](http://python.org).  Windows users can and probably should install [pythonxy](http://python-xy.github.io/) (or any other python distribution that includes numpy) and skip the next step.
 2. Install numpy following the directions at the [numpy website](http://www.numpy.org/)
+  * On some platforms you may be able to install numpy with
+    ```
+    sudo pip install numpy
+    ```
 3. Install pyserial and pygments using pip
   * From the command line, run (Note: Linux and MacOS may need to preceed these commands with `sudo`):
     ```
