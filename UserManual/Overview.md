@@ -1,15 +1,18 @@
 #Operating Overview
 
-Setting up the turbidostat generally takes two days sepparated by an autoclave step.  This can all be done in one day if you wait for the autoclave.  
+Setting up the turbidostat generally takes two days separated by an autoclave step.  This can all be done in one day if you wait for the autoclave.  
 
 ##Day -1:
 
-  1.  Prepare media using your preferred method.
-    *  If autoclaving media with the rest of the turbidostat components clamp off the media line to prevent media from flowing into the culture tubes.
-    *  Keep in mind, continuous culture devices consume one volume per chamber per generation, so yeast doubling every 90 minutes in 15ml volumes over eight chambers takes 15 ml * 8  / 1.5 hr = 80 ml/hr or about 2 L per day.  
-  2.  [Assemble and autoclave the closed system][1]
+1.  Prepare media using your preferred method.
+  *  If autoclaving media with the rest of the turbidostat components clamp
+    off the media line to prevent media from flowing into the culture tubes.
+  *  Keep in mind, continuous culture devices consume one volume per chamber
+    per generation, so yeast doubling every 90 minutes in 15ml volumes over
+    eight chambers takes 15 ml * 8  / 1.5 h = 80 ml/h or about 2 L per day.
+2.  [Assemble and autoclave the closed system][1]
 
-## Day 0: 
+## Day 0:
 
 1. Attach non-autoclavable parts
   * Attach sterile syringe
@@ -25,7 +28,7 @@ Setting up the turbidostat generally takes two days sepparated by an autoclave s
   * Prime siphon
   * Fill chambers with media
 5. [Start software and blank][2]
-6. Innoculate
+6. Inoculate
 
 
 
