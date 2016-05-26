@@ -1,8 +1,8 @@
-![final](OD_PCB_s5.jpg)
+![final](img/OD_PCB_s5.jpg)
 
 | step | Photo |
 | ---- | ----- |
-| step 1 | ![p1](img/OD_PCB_s1.jpg) |
+| step 1 | <img src="img/OD_PCB_s1.jpg" height="400"> |
 | step 2 | ![p1](img/OD_PCB_s2.jpg) |
 | step 3 | ![p1](img/OD_PCB_s3.jpg) |
 | step 4 | ![p1](img/OD_PCB_s4.jpg) |
