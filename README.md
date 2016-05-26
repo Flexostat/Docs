@@ -1,7 +1,7 @@
 # Docs
 Documentation for Flexostat.
 
-### ```UserManual/```
+### [```UserManual/```][3]
 
 This directory contains the Flexostat user manual.  This manual is currently a work in progress.  See the [old wiki][1] for the original manual.
 
@@ -16,4 +16,4 @@ revisions.  Please consult this document if you plan on doing upgrades.
 
 [1]: http://depts.washington.edu/soslab/turbidostat/pmwiki/
 [2]: VersionCompatibility.md
-
+[3]: UserManual
