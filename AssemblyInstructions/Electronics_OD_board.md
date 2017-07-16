@@ -11,7 +11,9 @@
 | Power up the board (plug in the RJ45 cable to the mainboard) and adjust the stepper driver to 400mA according to the boards [instructions][1] |   |
 | Program the board with the file [```OD_board\Production_files\firmware.hex```][2] |    |
 
-*Note: you may use a cheaper generic, but be sure to follow the 3rd praty instructions for setting current as the sense resistors can be different for generic drivers.
+*Note: You may use a cheaper generic, but be sure to follow the 3rd praty instructions for setting current as the sense resistors can be different for generic drivers.
+
++Note:  The official driver board uses a 0.05 ohm(R050) sense resistor so Vref should be 160mV.  Many clones use a 0.1 ohm (R100) sense resistor so Vref should be 320mV.
 
 [1]: https://www.pololu.com/category/156/a4988-stepper-motor-driver-carriers
 [2]: https://github.com/Flexostat/OD-Board/raw/master/Production_files/firmware.hex
